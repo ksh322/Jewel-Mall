@@ -1,4 +1,4 @@
-# [Project] B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
+# 💎B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
 
 ## 1. 프로젝트 개요
 
