@@ -83,8 +83,12 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 **현직 멘토**
 
 **Advisor**
-현대오토에버 현직자 
+- Autoever 현직자 2
+- samjung kpmg 1
+
 기술 스택 의사결정 지원 및 인프라 구축 가이드
+- HD Hyundai 1
+- Frontend
 
 ----------
 
