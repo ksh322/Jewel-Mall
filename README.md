@@ -9,8 +9,10 @@
     
 -   **기대효과**: 실제 상용 서비스 수준의 ERD/API 설계 및 배포 경험 확보.
     
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/7d2da995-5695-4a84-b3d4-e8eda3c2f3f4" />
 
 ----------
+
 
 ## 2. 개발 요구사항 명세 (MVP)
 
