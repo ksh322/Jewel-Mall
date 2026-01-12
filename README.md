@@ -1,4 +1,4 @@
-# 💎B2B Real-Jewel-Trade (RJT)
+# 💎B2B - Real-Trade-Jewel (RTJ)
 # B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 web service
 
 ## 1. 프로젝트 개요
