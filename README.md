@@ -47,7 +47,7 @@
     
 -   **Frontend**: JavaScript React (컴포넌트 기반 UI)
     
--   **Database**: MySQL PostgreSQL 중 택 1 (ERD 기반 설계)
+-   **Database**: PostgreSQL  (ERD 기반 설계)
     
 -   **Infrastructure**: AWS (Free-tier), Docker (컨테이너화)
     
@@ -68,30 +68,36 @@
 
 **기획 / Infra /QA**
 
-비즈니스 로직 정의, 요구사항 명세 작성, 인프라 보조 및 비용 관리
+비즈니스 로직 정의, 요구사항 명세 작성, Public Cloud 인프라 구축 및 비용 관리, 보안 담당(개인정보 책임자)
 
-**진욱님**
+**17 진욱님**
 
 **Frontend**
 
-Figma 와이어프레임 구현, React 클라이언트 개발, API 연동
+요구사항 명세서 정의, Figma 와이어프레임 구현, React & Next.js 클라이언트 개발, API 연동, FE 단위테스트 작성
 
 **상우님**
 
 **Backend / Infra**
 
-ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
+ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인 구축
 
 **현직 멘토**
 
-**Advisor**
-- Autoever 현직자 1
-- samjung kpmg 1
+**Advisor 4**
+
+
 
 기술 스택 의사결정 지원 및 인프라 구축 가이드
-- HD Hyundai 1
-- Frontend
+- Backend
+- Autoever 현직자 1 khj
+- samjung kpmg 1 Jyh
 
+
+
+- Frontend
+- HD Hyundai 1
+- (전) Toss (Viva Republica) PM 1
 ----------
 <img width="3624" height="2542" alt="image" src="https://github.com/user-attachments/assets/8cfd4456-9124-498e-ab34-794d933b05e8" />
 
