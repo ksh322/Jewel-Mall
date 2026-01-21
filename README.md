@@ -1,4 +1,4 @@
-# 💎B2B - Real-Trade-Jewel (RTJ)
+# 💎B2B Run-Trade-Jewel (RTJ)
 # B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 web service
 
 ## 1. 프로젝트 개요
@@ -113,17 +113,19 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 
 **집중 개발**
 
-Auth(login) 기능+oAuth, 장바구니/주문 생성 로직 개발, FE-BE API 연동
+Auth(login) 기능, API documentation 작성, FE-BE API 연동,
+
+장바구니/주문 생성 로직 개발, FE-BE API 연동
 
 **5-6주**
 
 **인프라 및 배포**
 
-AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트
+AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트(BE-QA, FE-QA)
 
 **마무리**
 
-FE QA 및 버그 수정, 프로젝트 문서화 (README/Claude.md)
+FE QA 및 버그 수정, 프로젝트 문서화 (README.md/Claude.md)
 
 ----------
 
