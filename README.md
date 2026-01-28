@@ -43,15 +43,15 @@
 
 ### 💻 기술 스택 (Tech Stack)
 
--   **Backend**: Java/Kotlin + SpringBoot (현업 표준 준수)
+-   **Backend**: Java JDK17 , SpringBoot3.x (현업 표준 준수)
     
--   **Frontend**: JavaScript React (컴포넌트 기반 UI)
+-   **Frontend**: TypeScript React (컴포넌트 기반 UI)
     
 -   **Database**: PostgreSQL  (ERD 기반 설계)
     
--   **Infrastructure**: AWS (Free-tier), Docker (컨테이너화)
+-   **Infrastructure**: AWS (Free-tier), Docker컨테이너화
     
--   **Collaborator Tools**: Figma, GitHub, Slack, Trello
+-   **Collaborator Tools**: IntelliJ, Figma, GitHub action, Gitlab, Slack, Trello
     
 
 ----------
@@ -90,14 +90,14 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인 구축
 
 기술 스택 의사결정 지원 및 인프라 구축 가이드
 - Backend
-- Autoever 현직자 1 khj
-- samjung kpmg 1 Jyh
+- Autoever 현직자분  khj
+- samjung kpmg Jyh
 
 
 
 - Frontend
-- HD Hyundai 1
-- (전) Toss (Viva Republica) PM 1
+- HD Hyundai 
+- (전) Toss (Viva Republica) PM 현직자분 
 ----------
 <img width="3624" height="2542" alt="image" src="https://github.com/user-attachments/assets/8cfd4456-9124-498e-ab34-794d933b05e8" />
 
